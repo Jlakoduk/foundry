@@ -52,5 +52,7 @@
       "path": "packs/rolltables.db",
       "type": "RollTable"
     }
-  ]
+  ],
+  "manifest": "https://github.com/Jlakoduk/foundry/blob/main/athas-silt-sea-ambush/module.json",
+  "download": "https://github.com/Jlakoduk/foundry/blob/main/athas-silt-sea-ambush/module.zip",
 }
