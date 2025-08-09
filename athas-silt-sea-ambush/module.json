@@ -1,0 +1,56 @@
+{
+  "id": "athas-silt-sea-ambush",
+  "title": "Dark Sun \u2013 Ambush in the Silt Sea (PF1 + Psionics)",
+  "description": "A Dark Sun\u2013themed ambush encounter for Pathfinder 1e using Dreamscarred Press psionics. Includes gridless scene, actors, items, roll tables, and journals.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "type": "module",
+  "authors": [
+    {
+      "name": "M365 Copilot"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system"
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Athas Actors",
+      "path": "packs/actors.db",
+      "type": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "Athas Items",
+      "path": "packs/items.db",
+      "type": "Item"
+    },
+    {
+      "name": "scenes",
+      "label": "Athas Scenes",
+      "path": "packs/scenes.db",
+      "type": "Scene"
+    },
+    {
+      "name": "journals",
+      "label": "Athas Journals",
+      "path": "packs/journals.db",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "rolltables",
+      "label": "Athas Loot Tables",
+      "path": "packs/rolltables.db",
+      "type": "RollTable"
+    }
+  ]
+}
